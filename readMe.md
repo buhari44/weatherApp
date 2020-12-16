@@ -1,4 +1,4 @@
-                    Weather App
+                   <h1> Weather App </h1>
 
 THis website display the current and future weather condition of any city
 The features include
