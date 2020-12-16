@@ -1,6 +1,6 @@
                     Weather App
 
-THis website displays the current and future weather condition of any city
+THis website display the current and future weather condition of any city
 The features include
 1.city name
 2.icon that displays the current situation of a country
